@@ -30,6 +30,7 @@ void draw_lines()
     }
 }
 
+
 int main(int argc, char *argv[])
 {
     SDL_Init(SDL_INIT_VIDEO);
@@ -45,7 +46,7 @@ int main(int argc, char *argv[])
         SDL_RenderClear(renderer);
 
         // Rajzoljuk meg a korábbi vonalakat
-        draw_lines();
+        draw_rect();
 
         while (SDL_PollEvent(&event)) {
             switch (event.type) {
