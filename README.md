@@ -1,12 +1,15 @@
 # Féléves feladat leírása
 
-A feladat célja egy egyszerű 3 dimenziós szoba létrehozása, amely a W, A, S, D billentyűk segítségével navigálható. A szoba határait beton falak jelölik. Az alkalmazás az OBJ modellek és BMP textúrák betöltését támogatja. A program fejlesztése során az SDL könyvtárat használjuk majd a megjelenítésre.
+A feladat célja egy egyszerű 3 dimenziós falu létrehozása, amely a W, A, S, D billentyűk segítségével navigálható.
+A faluban a házakl között elrejtve található egy kacsa és egy nyúl, amelyek a saját tengelyük körül forognak, ha mindkettőt megtalálja a játékos, véget ér a játék.
 
-A program lehetővé teszi a felhasználó számára, hogy szabadon navigáljon a szobában és vizsgálja a falakon és a padlón található tárgyakat. Az objektumok magukban foglalják a szoba berendezéseit, például székeket, asztalokat és más hasonló tárgyakat például:
-* székek
-* asztal
-* ágy
 
-A tárgyak fix helyen lesznek, mozgatás nem lehetséges.
+## Irányítás
+* W,A,S,D - mozgás irányítása
+* F1 - help menú
+* F11 - fényerő le
+* F12 - Fényerő fel
+* Esc - játék bezárása
 
-A falakon polcok illetve festmények találhatóak majd.
+A játékban igyekezni fogok Ütközésvizsgálatot is implementálni, mivel a házak belül nem tartalmaznak majd semmilyen interakciót.
+A kacsa és a nyúl felvételt követően eltűnnek majd a képről.
