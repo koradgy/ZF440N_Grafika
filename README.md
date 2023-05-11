@@ -1,7 +1,7 @@
 # Féléves feladat leírása
 
 A feladat célja egy egyszerű 3 dimenziós falu létrehozása, amely a W, A, S, D billentyűk segítségével navigálható.
-A faluban a házakl között elrejtve található egy kacsa és egy nyúl, amelyek a saját tengelyük körül forognak, ha mindkettőt megtalálja a játékos, véget ér a játék.
+A faluban a házak között elrejtve található egy kacsa és egy nyúl, amelyek a saját tengelyük körül forognak, ha mindkettőt megtalálja a játékos, véget ér a játék.
 
 
 ## Irányítás
