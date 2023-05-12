@@ -1,13 +1,14 @@
 # Féléves feladat leírása
 
-A feladat célja egy lakóterület létrehozása, amely a W, A, S, D billentyűk segítségével navigálható.
+A feladat célja egy kisebb lakóterület létrehozása, amely a W, A, S, D billentyűk segítségével navigálható.
 Két sorban helyeztem el összesen 4 házat, ezek között kell majd az állatokat megkeresni.
 A házak azonos modellt és textúrát használnak, a területen 2-2 ház található egymás mellett.
 
-A játék története, hogy egy embernek elszökött két háziállata, egy kacsa és egy nyúl.
-Ezekért indul a faluba, hogy megkeresse őket, viszont elbújtak. A játékos feladata megtalálni a két kiskedvencet.
+A játék története, hogy az egyik lakos két háziállata elszökött, egy kacsa és egy nyúl.
+Ezekért indul a házak közé, hogy megkeresse őket, viszont elbújtak. 
+A játékos ezt a személyt irányítja, és feladata megtalálni a két kiskedvencet.
 
-A két állat fix pontokon lett elhelyezve a faluban, saját tengelyük körül forogva jelzik, hogy begyűjtheőek.
+A két állat fix pontokon lett elhelyezve a házak között, saját tengelyük körül forogva jelzik, hogy begyűjtheőek.
 
 ## Irányítás
 * W,A,S,D - mozgás irányítása
