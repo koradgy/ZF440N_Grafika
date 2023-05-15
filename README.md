@@ -14,7 +14,7 @@ A két állat fix pontokon lett elhelyezve a házak között, saját tengelyük 
 * W,A,S,D - mozgás irányítása
 * F1 - help menú
 * F11 - fényerő le
-* F12 - Fényerő fel
+* F12 - fényerő fel
 * Esc - játék bezárása
 
 ## A játék hangjai
