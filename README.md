@@ -7,6 +7,7 @@ A házak azonos modellt és textúrát használnak, a területen 2-2 ház talál
 A játék története, hogy az egyik lakos két háziállata elszökött, egy kacsa és egy nyúl.
 Ezekért indul a házak közé, hogy megkeresse őket, viszont elbújtak. 
 A játékos ezt a személyt irányítja, és feladata megtalálni a két kiskedvencet.
+Közben egy raptor járkál a házak között, ha a játékos nekimegy, akkor a raptor elkapja és vége a játéknak.
 
 A két állat fix pontokon lett elhelyezve a házak között, saját tengelyük körül forogva jelzik, hogy begyűjtheőek.
 
